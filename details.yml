@@ -9,14 +9,17 @@ urls:
 
 # Sections
 
-intro: "I am a third year Software Engineering student studying at the University of Auckland. I am looking for a Software Engineering internship role"
+intro: "I am a third year Software Engineering student studying at the University of Auckland. I am looking for a Software Engineering internship role."
 
 projects:
 - name: Statify
   description: 'This is a web app using the Spotify API to retrieve a users top artist statistics from a specified time period. It was built using React and Spotifys implicit grant authorization flow. It is still under construction so expect some minor errors. The app is currently being hosted with Github pages.'
   link: jake-good.github.io/Statify
-  technologies: 'JavaScript, React, Github pages, HTML, CSS'
-
+  technologies: 'JavaScript, React, Github pages, HTML, CSS, git'
+- name: Portfolio
+  description: 'This is a simple web page showcasing some of my web design efforts and allowing people to easily contact me and find more detailed information about my projects. The page is currently being hosted with github pages using a custom domain, with HTTPS set up.'
+  link: jakegood.me
+  technologies: 'HTML, CSS, JavaScript, git'
 skills:
 - name: Java
   type: Academic
@@ -49,11 +52,11 @@ experience:
 - years: April 2017 -- March 2019
   employer: Dominos Pizza
   job: Delivery Driver
-  reference: Venny - 021021021
+  reference: Venny - 021 867 110
 - years: March 2019 -- present
   employer: Liquorland
   job: Sales Assistant
-  reference: Tim - 021021021
+  reference: Tim - 027 486 138
 
 education:
 - year: began 2017
@@ -67,5 +70,5 @@ education:
 mainfont: GaramondNo8-Regular
 fontsize: 10pt
 lang: English
-geometry: a4paper, left=35mm, right=35mm, top=30mm, bottom=17mm
+geometry: a4paper, left=30mm, right=30mm, top=20mm, bottom=0mm
 ---
